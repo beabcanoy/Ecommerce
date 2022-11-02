@@ -1,2 +1,2 @@
-# Ecommrce
+# Ecommerce
 For educational purposes only
